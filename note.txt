@@ -8,3 +8,6 @@ Si premiere fois:
 # git status:
 si nouveaux fichiers en rouge besoin du git add pour aller dans stage area
 # git add . pour tous les fichiers détectés
+
+maintenant pour passer dans local repo:
+# git commit -m "messge explicite
