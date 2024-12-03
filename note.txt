@@ -1,0 +1,10 @@
+initialisation
+# git init
+
+Si premiere fois:
+# git config --global user.name "DANIEL48400"
+# git config --global user.email "dbdotc@gmail.com"
+
+# git status:
+si nouveaux fichiers en rouge besoin du git add pour aller dans stage area
+# git add . pour tous les fichiers détectés
