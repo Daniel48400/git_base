@@ -11,3 +11,10 @@ si nouveaux fichiers en rouge besoin du git add pour aller dans stage area
 
 maintenant pour passer dans local repo:
 # git commit -m "messge explicite
+
+revenir à une version antérieure ( possible aussi avec clck droit checkout)
+# git checkout 0064f3f
+ou
+# git reset --hard 0064f3f
+
+#git log --oneline
