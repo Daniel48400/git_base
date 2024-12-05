@@ -18,3 +18,8 @@ ou
 # git reset --hard 0064f3f
 
 #git log --oneline
+
+HEAD pour resynchroniser après retour sur ancienne version: click droit checkout branch
+
+creation d une autre branche test
+# git checkout -b test
