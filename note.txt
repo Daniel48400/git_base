@@ -27,3 +27,9 @@ creation d une autre branche test et y aller
 # git branch develop juste pour créer la branche
 
 # git branch -d develop : supprime la branche
+
+pour envoyer dans github:
+ # git branch -M master
+ # git remote add origin https://github.com/Daniel48400/git_base.git
+
+ # git remote -v   pour controler
