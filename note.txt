@@ -21,5 +21,9 @@ ou
 
 HEAD pour resynchroniser après retour sur ancienne version: click droit checkout branch
 
-creation d une autre branche test
+creation d une autre branche test et y aller
 # git checkout -b test
+
+# git branch develop juste pour créer la branche
+
+# git branch -d develop : supprime la branche
