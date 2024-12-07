@@ -33,3 +33,17 @@ pour envoyer dans github:
  # git remote add origin https://github.com/Daniel48400/git_base.git
 
  # git remote -v   pour controler
+
+ # git push origin master ou --all
+
+ # -u upstream : a n utiliser qu une seule fois sert seulement a tracker les pistes pour la premiere fois
+
+ # git pull origin master : je ramene le depot gitub dans le local au cas ou le dépot gitub a été directement modifié
+
+# git clone "le chemin copié dans github" et . pour ne pas creer un sous dossier
+attention on vient de clone un depot distant qui n est pas le notre
+donc si on fait un push direct ca ne marchera pas
+donc on on supprime le lien vers github
+# git remote rm origin
+puis on push dans notre dépot github
+# git remote add origin https://github.com/Daniel48400/git_base.git par exemple
